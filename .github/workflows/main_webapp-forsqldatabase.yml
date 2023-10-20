@@ -61,4 +61,3 @@ jobs:
           slot-name: 'Production'
           publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_DE0241E9D513493CBCDAE940F09187AC }}
           package: .
-ACTIONS_ALLOW_USE_UNSECURE_NODE_VERSION=true
